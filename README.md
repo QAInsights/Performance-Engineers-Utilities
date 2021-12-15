@@ -46,4 +46,5 @@
 ## Utilities
 
 * https://crontab.guru/examples.html
+* https://gchq.github.io/CyberChef/
 
